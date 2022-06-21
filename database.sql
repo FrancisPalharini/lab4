@@ -1,3 +1,4 @@
+drop database refugees;
 create database refugees;
 use  refugees;
 
